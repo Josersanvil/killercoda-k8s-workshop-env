@@ -5,4 +5,5 @@ This repository contains the definitions of the [Killercoda](https://killercoda.
 ## Documentation
 
 - [Getting started as a creator in Killercoda](https://killercoda.com/creators/get-started)
+- [Documentation for creating scenarios](https://killercoda.com/creators)
 - [Scenarios creator](https://killercoda.com/creator/scenarios)
