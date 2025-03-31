@@ -16,4 +16,4 @@ spec:
     - containerPort: 80
 EOF
 
-echo done > /tmp/background0
+echo done > /tmp/background1
