@@ -3,14 +3,14 @@
     "description": "Learn how to run commands to manage a two node Kubernetes cluster",
     "details": {
       "intro": {
-        "text": "intro.md"
+        "text": "intro.md",
+        "foreground": "step1/foreground.sh",
+        "background": "step1/background.sh"
       },
       "steps": [
         {
           "title": "Create a pod",
           "text": "step1/text.md",
-          "foreground": "step1/foreground.sh",
-          "background": "step1/background.sh",  
           "verify": "step1/verify.sh"
         },
         {
